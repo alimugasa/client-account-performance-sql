@@ -1,0 +1,801 @@
+client_id,first_name,last_name,age,gender,geography,credit_score,estimated_salary,tenure_months,is_active,join_date,exited,exit_date,exit_reason
+C0001,Sophia,Anderson,20,Female,New York,703,69864.27,58,1,2021-01-01,0,,
+C0002,Linda,Lopez,32,Male,Maryland,732,64431.16,155,1,2013-10-01,0,,
+C0003,Brenda,Smith,67,Male,New Jersey,670,77086.0,88,1,2018-06-01,0,,
+C0004,Frank,Cox,35,Male,New Jersey,808,97126.08,138,0,2014-11-01,1,2025-10-15,Relocation
+C0005,Deborah,Price,23,Male,New York,836,57988.9,75,1,2019-06-01,0,,
+C0006,Michelle,Mitchell,41,Male,Ohio,786,49677.4,180,1,2010-03-01,0,,
+C0007,Noah,Carter,36,Male,Ohio,682,67571.22,15,1,2024-10-01,0,,
+C0008,Diana,Green,32,Female,New Jersey,619,66412.63,165,1,2012-10-01,0,,
+C0009,Joyce,Howard,44,Female,New York,645,61425.42,36,0,2022-03-01,1,2024-11-15,Better Rates Elsewhere
+C0010,Henry,Kim,23,Female,New Jersey,778,61342.05,153,0,2013-12-01,0,,
+C0011,Sandra,Mendoza,53,Female,Ohio,667,74430.24,29,0,2023-12-01,1,2025-09-15,Life Event
+C0012,Amanda,Cook,25,Female,Maryland,704,82202.92,156,0,2012-09-01,1,2024-10-15,Inactive Account Closed
+C0013,Samuel,Morales,20,Male,Ohio,683,78297.11,79,1,2019-02-01,0,,
+C0014,Sean,Foster,27,Male,New Jersey,729,85204.42,141,0,2014-12-01,0,,
+C0015,Ralph,Sanchez,64,Female,New Jersey,629,42900.27,172,1,2011-06-01,0,,
+C0016,Jennifer,Ramos,54,Male,Maryland,805,63558.77,57,0,2021-01-01,1,2025-02-15,Better Rates Elsewhere
+C0017,Cheryl,Walker,36,Female,New York,806,100059.6,139,1,2014-07-01,0,,
+C0018,Timothy,Gonzalez,25,Female,Ohio,544,85282.94,109,0,2016-11-01,1,2024-01-15,Life Event
+C0019,Ruth,Sanders,40,Male,New York,712,84331.43,50,1,2021-02-01,0,,
+C0020,Victoria,Peterson,25,Male,Maryland,850,52272.74,4,1,2025-04-01,0,,
+C0021,Aaron,Davis,29,Female,Pennsylvania,666,100343.92,100,1,2017-09-01,0,,
+C0022,Amber,Alvarez,50,Male,New York,685,69480.98,76,1,2019-01-01,0,,
+C0023,Frances,Morris,51,Male,Pennsylvania,724,68804.65,131,1,2015-02-01,0,,
+C0024,Sara,Young,56,Male,Maryland,587,76155.0,21,0,2024-12-01,0,,
+C0025,Benjamin,Walker,35,Female,New York,626,42735.92,172,0,2011-10-01,0,,
+C0026,Harold,Gonzalez,23,Male,Maryland,729,77073.18,68,0,2020-06-01,1,2025-03-15,Poor Customer Service
+C0027,Peter,Cooper,64,Female,Maryland,563,56093.06,168,0,2011-03-01,0,,
+C0028,Shirley,Anderson,25,Male,Ohio,579,40586.49,73,0,2019-05-01,1,2025-05-15,Life Event
+C0029,Susan,Lopez,59,Female,Ohio,817,62841.61,12,1,2024-09-01,0,,
+C0030,Russell,Diaz,54,Male,Pennsylvania,795,50588.64,20,0,2024-06-01,1,2024-07-15,Better Rates Elsewhere
+C0031,Steven,Garcia,38,Female,Pennsylvania,695,78147.71,92,0,2018-09-01,1,2025-10-15,Inactive Account Closed
+C0032,Donna,Walker,29,Male,New Jersey,758,107162.55,7,1,2025-12-01,0,,
+C0033,Amy,Wright,29,Male,New Jersey,715,49888.2,10,1,2025-04-01,0,,
+C0034,Laura,Brown,61,Male,New Jersey,674,70210.99,85,1,2018-11-01,0,,
+C0035,Martha,Nelson,20,Male,Ohio,479,31418.13,46,0,2022-07-01,1,2025-12-15,Switched to Online Bank
+C0036,Benjamin,Parker,57,Male,New Jersey,688,68165.07,148,1,2013-11-01,0,,
+C0037,Mason,Patel,66,Male,Ohio,786,75834.16,111,1,2016-12-01,0,,
+C0038,Scott,Cook,38,Female,Ohio,646,35551.71,104,0,2017-07-01,1,2024-10-15,Life Event
+C0039,Sara,Hill,44,Male,Ohio,714,99415.77,74,1,2019-11-01,0,,
+C0040,Jason,Rogers,49,Male,Pennsylvania,567,58980.71,73,0,2019-04-01,1,2025-04-15,Inactive Account Closed
+C0041,Ronald,Jackson,20,Male,New York,575,37779.92,122,0,2015-12-01,0,,
+C0042,Eugene,Roberts,50,Female,New York,675,60072.56,38,0,2022-07-01,0,,
+C0043,Jeffrey,Thompson,70,Female,Pennsylvania,680,104728.08,143,0,2014-09-01,0,,
+C0044,Lawrence,Green,67,Female,Maryland,523,83293.02,130,1,2015-08-01,0,,
+C0045,Eric,Long,34,Female,Maryland,635,49398.75,125,0,2015-04-01,1,2025-06-15,Relocation
+C0046,Samantha,Cooper,24,Male,New York,645,70495.22,60,1,2020-08-01,0,,
+C0047,Nathan,Davis,32,Female,New Jersey,694,60547.29,150,1,2013-06-01,0,,
+C0048,Scott,Long,43,Female,Maryland,732,18000,140,1,2014-07-01,0,,
+C0049,Gregory,Bennett,62,Female,New York,850,32059.28,120,0,2015-11-01,0,,
+C0050,Michael,Hernandez,60,Female,New York,705,77531.15,119,1,2016-07-01,0,,
+C0051,Brenda,Long,72,Female,Ohio,549,68785.29,21,0,2024-04-01,1,2024-11-15,Relocation
+C0052,William,Long,20,Male,New York,637,50782.6,6,1,2025-08-01,0,,
+C0053,Isabella,Allen,68,Female,New York,576,39209.47,156,0,2012-03-01,1,2025-02-15,Inactive Account Closed
+C0054,Jesse,Brown,38,Female,New Jersey,788,77486.74,51,1,2021-11-01,0,,
+C0055,Janice,Thomas,69,Male,Ohio,610,71208.07,137,1,2014-08-01,0,,
+C0056,Margaret,Parker,42,Female,New York,723,85894.63,112,1,2016-08-01,0,,
+C0057,Christina,Parker,71,Female,Ohio,696,53812.04,63,1,2020-10-01,0,,
+C0058,Doris,Carter,40,Male,New Jersey,702,75819.49,84,1,2018-12-01,0,,
+C0059,Stephen,Bailey,19,Male,Pennsylvania,662,36971.56,62,1,2020-08-01,0,,
+C0060,Zachary,Williams,24,Female,New York,655,44432.63,104,1,2017-07-01,0,,
+C0061,Carl,Nelson,41,Female,Ohio,679,73155.93,79,0,2019-12-01,1,2024-04-15,Better Rates Elsewhere
+C0062,Sharon,Patel,49,Female,Maryland,495,26724.42,135,1,2014-05-01,0,,
+C0063,Patricia,Price,53,Male,Ohio,780,57508.27,12,1,2024-08-01,0,,
+C0064,Anthony,Johnson,55,Female,New Jersey,632,67131.87,123,0,2015-08-01,1,2024-02-15,Inactive Account Closed
+C0065,Aaron,Morales,23,Male,New York,753,18000,39,0,2022-02-01,1,2025-10-15,Poor Customer Service
+C0066,Lawrence,Richardson,33,Female,New Jersey,648,90030.63,114,0,2016-12-01,0,,
+C0067,Betty,Ross,32,Male,Ohio,731,69955.84,170,1,2011-12-01,0,,
+C0068,Lawrence,Stewart,37,Male,New York,646,28965.88,74,1,2019-11-01,0,,
+C0069,Bryan,James,70,Male,New Jersey,568,53218.74,30,0,2023-03-01,0,,
+C0070,Brandon,Kim,66,Female,New Jersey,613,65660.69,32,1,2023-08-01,0,,
+C0071,Charles,Kim,21,Female,Ohio,679,71628.33,155,0,2013-01-01,0,,
+C0072,Roy,Wright,55,Male,New York,594,59174.14,121,0,2015-07-01,1,2025-02-15,Switched to Online Bank
+C0073,Ethan,Hall,45,Female,Ohio,717,69958.96,172,1,2011-07-01,0,,
+C0074,Carl,Jones,48,Male,Ohio,585,114240.73,65,1,2020-11-01,0,,
+C0075,Gerald,Reyes,45,Male,New York,593,90225.04,133,0,2014-09-01,0,,
+C0076,Dorothy,Torres,47,Female,Pennsylvania,788,56938.04,8,0,2025-05-01,1,2024-09-15,Poor Customer Service
+C0077,Jose,Lopez,33,Male,New Jersey,652,51816.29,31,1,2023-07-01,0,,
+C0078,Evelyn,Stewart,34,Female,Maryland,545,95181.57,38,0,2022-05-01,0,,
+C0079,Nathan,Baker,69,Female,Pennsylvania,657,20536.01,73,1,2019-08-01,0,,
+C0080,Martha,Morris,41,Female,Maryland,546,97649.91,140,0,2014-07-01,0,,
+C0081,Cynthia,Jimenez,45,Male,Ohio,639,23395.08,122,1,2015-03-01,0,,
+C0082,Christian,Jones,27,Female,Pennsylvania,822,90335.97,113,0,2016-07-01,1,2024-02-15,Poor Customer Service
+C0083,Ethan,King,40,Female,Pennsylvania,775,27128.79,85,1,2018-08-01,0,,
+C0084,Gerald,Jones,58,Male,New York,653,45406.93,162,0,2012-07-01,1,2024-11-15,Better Rates Elsewhere
+C0085,Russell,Gonzalez,47,Male,Ohio,816,73180.82,8,0,2025-07-01,1,2024-04-15,Relocation
+C0086,Jacqueline,Evans,55,Male,New York,822,83189.93,45,1,2022-03-01,0,,
+C0087,Cynthia,Reyes,59,Female,New Jersey,594,21184.62,66,1,2020-02-01,0,,
+C0088,Victoria,Hall,56,Female,New Jersey,679,104503.77,177,0,2011-08-01,1,2024-04-15,Fees Too High
+C0089,Maria,Kelly,41,Female,Ohio,796,57546.84,6,1,2025-12-01,0,,
+C0090,Richard,Cox,66,Female,Ohio,621,49223.1,59,1,2021-12-01,0,,
+C0091,Elijah,Mendoza,72,Male,Pennsylvania,638,46958.85,161,1,2012-02-01,0,,
+C0092,Emma,Adams,66,Female,New York,747,82222.04,52,1,2021-03-01,0,,
+C0093,Angela,Morris,70,Female,Ohio,648,63720.75,30,1,2023-11-01,0,,
+C0094,Diane,Bailey,42,Male,New Jersey,676,73253.77,4,0,2025-07-01,0,,
+C0095,Sophia,Mitchell,25,Male,New Jersey,539,26042.83,7,0,2025-04-01,1,2024-11-15,Switched to Online Bank
+C0096,Noah,Hughes,38,Female,Pennsylvania,701,63703.02,36,1,2022-09-01,0,,
+C0097,Paul,Roberts,48,Female,Maryland,570,43517.94,108,1,2016-10-01,0,,
+C0098,Jose,Scott,21,Female,New York,624,67498.52,114,0,2016-11-01,0,,
+C0099,Carolyn,Davis,44,Female,New York,821,49081.55,32,0,2023-11-01,1,2024-01-15,Poor Customer Service
+C0100,Christine,Young,27,Male,Pennsylvania,694,76793.33,142,1,2014-10-01,0,,
+C0101,James,Scott,28,Male,Maryland,691,51872.26,65,1,2020-04-01,0,,
+C0102,Bryan,Adams,20,Male,Ohio,738,78440.61,14,0,2024-08-01,1,2025-06-15,Better Rates Elsewhere
+C0103,Cheryl,Ramos,25,Female,Maryland,702,59797.05,57,0,2021-08-01,0,,
+C0104,Alan,Brown,22,Female,New Jersey,643,38490.87,110,1,2016-10-01,0,,
+C0105,Emily,Rodriguez,27,Female,Maryland,571,44257.67,163,1,2012-09-01,0,,
+C0106,Arthur,Parker,25,Male,Maryland,528,81585.98,56,0,2021-12-01,0,,
+C0107,Matthew,Green,46,Female,Ohio,796,52362.9,96,1,2017-07-01,0,,
+C0108,Matthew,Myers,66,Female,New York,850,82282.35,143,1,2014-11-01,0,,
+C0109,Henry,Castillo,22,Female,Maryland,617,85200.1,80,1,2019-02-01,0,,
+C0110,Rachel,Bailey,42,Male,Ohio,692,85033.45,147,0,2013-11-01,0,,
+C0111,Alan,Bailey,20,Female,Pennsylvania,660,98901.03,47,1,2022-03-01,0,,
+C0112,Harold,James,44,Male,New York,714,60299.32,163,1,2012-03-01,0,,
+C0113,Jack,Flores,65,Female,Maryland,702,65680.13,153,0,2013-01-01,1,2024-05-15,Switched to Online Bank
+C0114,Victoria,James,46,Female,Maryland,632,69871.48,114,1,2016-11-01,0,,
+C0115,Marilyn,Ramos,50,Female,Pennsylvania,594,80197.88,57,0,2021-04-01,1,2024-05-15,Relocation
+C0116,Justin,Adams,26,Male,New Jersey,715,81215.94,111,1,2016-06-01,0,,
+C0117,Christopher,Gomez,66,Male,New Jersey,648,64216.18,5,0,2025-10-01,1,2025-12-15,Fees Too High
+C0118,Sophia,Turner,37,Male,New Jersey,728,59152.09,6,1,2025-06-01,0,,
+C0119,Daniel,Parker,25,Male,New Jersey,653,67213.58,151,0,2013-03-01,0,,
+C0120,Karen,Rogers,59,Male,Maryland,727,97728.37,131,0,2015-03-01,0,,
+C0121,Jacob,Wilson,28,Female,New York,571,39695.53,45,1,2022-08-01,0,,
+C0122,Noah,Long,55,Female,Maryland,606,38863.7,165,1,2012-02-01,0,,
+C0123,Ethan,Cruz,59,Female,Ohio,769,71048.56,152,0,2013-05-01,0,,
+C0124,Karen,Chavez,24,Female,New Jersey,546,48955.02,149,1,2013-11-01,0,,
+C0125,Timothy,Adams,57,Female,Maryland,764,55679.59,39,0,2022-02-01,0,,
+C0126,Andrea,Chavez,30,Male,New York,777,60482.44,113,1,2016-07-01,0,,
+C0127,Jose,Jimenez,40,Male,Ohio,630,86660.28,17,1,2024-10-01,0,,
+C0128,Joshua,Nelson,24,Male,Ohio,801,55132.86,80,1,2019-05-01,0,,
+C0129,Ann,Carter,60,Female,New York,623,18000,172,0,2011-11-01,0,,
+C0130,Henry,Rogers,42,Male,Ohio,703,75832.1,80,1,2019-03-01,0,,
+C0131,Donna,Martinez,37,Male,Maryland,764,22737.26,139,0,2014-10-01,1,2024-10-15,Relocation
+C0132,Dennis,Martin,29,Male,Maryland,675,55531.33,43,1,2022-10-01,0,,
+C0133,Larry,Long,66,Female,New York,694,118979.73,137,0,2014-11-01,0,,
+C0134,Jordan,Cruz,48,Female,New Jersey,474,52166.37,129,0,2015-05-01,0,,
+C0135,Susan,Chavez,49,Female,Maryland,656,36275.21,27,0,2023-03-01,1,2025-08-15,Better Rates Elsewhere
+C0136,Cheryl,Jackson,72,Female,Pennsylvania,747,20235.15,57,1,2021-06-01,0,,
+C0137,Jacob,Roberts,24,Female,New York,664,71128.6,8,1,2025-01-01,0,,
+C0138,Pamela,Stewart,63,Male,New Jersey,549,30293.64,115,0,2016-03-01,1,2025-02-15,Poor Customer Service
+C0139,Pamela,Walker,38,Male,Pennsylvania,555,80874.36,62,1,2020-10-01,0,,
+C0140,Martha,Williams,59,Male,New York,580,75070.34,75,0,2019-03-01,1,2024-09-15,Fees Too High
+C0141,Patrick,Rodriguez,52,Male,New Jersey,756,67878.45,121,0,2015-02-01,0,,
+C0142,Frank,Walker,65,Male,Maryland,729,77244.26,86,1,2018-11-01,0,,
+C0143,Noah,Hughes,49,Male,New York,639,18000,17,0,2024-01-01,1,2024-01-15,Poor Customer Service
+C0144,Benjamin,Flores,51,Female,Maryland,677,98799.09,122,0,2015-01-01,1,2025-05-15,Relocation
+C0145,Ashley,Mitchell,46,Female,New Jersey,652,73991.7,99,1,2017-05-01,0,,
+C0146,Lisa,Sanders,46,Male,New Jersey,730,61572.59,155,1,2013-05-01,0,,
+C0147,Brandon,Edwards,57,Female,New York,598,70267.61,177,0,2011-07-01,0,,
+C0148,Stephen,Brooks,69,Male,Pennsylvania,630,46102.5,172,1,2011-03-01,0,,
+C0149,Jean,Gray,69,Female,Pennsylvania,806,77661.1,33,1,2023-10-01,0,,
+C0150,Donna,Gray,47,Female,Ohio,688,33359.77,114,1,2016-04-01,0,,
+C0151,Sandra,Brown,66,Male,New Jersey,602,80419.85,133,0,2014-12-01,1,2025-04-15,Relocation
+C0152,Gabriel,Torres,63,Female,New York,700,68499.44,32,0,2023-08-01,1,2024-11-15,Life Event
+C0153,Samantha,Bennett,41,Male,Maryland,663,79985.32,139,0,2014-12-01,1,2024-06-15,Life Event
+C0154,Roger,Lewis,26,Male,New York,684,57084.77,61,1,2020-09-01,0,,
+C0155,Dorothy,Ward,24,Male,Ohio,807,61910.82,102,0,2017-02-01,0,,
+C0156,Steven,Green,60,Male,New Jersey,648,43698.17,120,0,2015-03-01,0,,
+C0157,Dorothy,Parker,51,Male,Pennsylvania,707,72821.48,133,1,2014-09-01,0,,
+C0158,Larry,Hernandez,35,Male,Maryland,727,75227.29,71,1,2020-10-01,0,,
+C0159,Donna,Perez,61,Female,Maryland,688,57300.37,11,0,2025-10-01,1,2025-11-15,Life Event
+C0160,Rebecca,Foster,55,Female,Maryland,844,70725.03,164,1,2012-04-01,0,,
+C0161,Danielle,Phillips,38,Female,Pennsylvania,760,70703.92,177,1,2011-06-01,0,,
+C0162,Diana,Green,65,Female,New Jersey,686,35594.11,34,0,2023-08-01,1,2024-05-15,Poor Customer Service
+C0163,Kelly,Young,28,Male,Pennsylvania,830,47209.37,75,0,2019-06-01,0,,
+C0164,Madison,Castillo,39,Male,New York,769,61375.22,128,1,2015-07-01,0,,
+C0165,Andrea,Collins,34,Male,Maryland,742,67382.69,91,0,2018-05-01,0,,
+C0166,Martha,Johnson,25,Female,New York,660,24994.42,68,1,2020-04-01,0,,
+C0167,Patrick,Peterson,37,Male,New Jersey,583,70530.72,130,1,2015-03-01,0,,
+C0168,Matthew,Gomez,42,Female,Maryland,681,47348.9,94,0,2018-03-01,0,,
+C0169,Bobby,Nelson,70,Female,Maryland,780,99456.88,117,0,2016-06-01,1,2024-07-15,Switched to Online Bank
+C0170,Abigail,Patel,72,Female,Maryland,584,60793.15,87,1,2018-01-01,0,,
+C0171,Jack,Nelson,62,Male,New Jersey,619,106027.19,150,1,2013-05-01,0,,
+C0172,Denise,Jimenez,56,Male,Pennsylvania,583,65285.81,150,0,2013-11-01,0,,
+C0173,Gary,Jones,55,Male,New York,602,70297.67,5,1,2025-10-01,0,,
+C0174,Ethan,Patel,65,Male,New York,698,80810.82,133,1,2014-03-01,0,,
+C0175,Lauren,Morgan,40,Female,Ohio,480,67483.61,157,0,2012-04-01,1,2025-05-15,Relocation
+C0176,Russell,Clark,63,Female,Ohio,571,103688.86,123,1,2015-11-01,0,,
+C0177,Gloria,Carter,44,Female,New York,850,76329.53,75,0,2019-11-01,1,2025-12-15,Fees Too High
+C0178,Jeremy,Ramirez,31,Female,Maryland,674,72483.81,179,0,2011-09-01,0,,
+C0179,Laura,Brooks,33,Male,Pennsylvania,636,83779.45,106,1,2017-03-01,0,,
+C0180,Jose,Wood,49,Female,New York,630,90584.05,74,1,2019-09-01,0,,
+C0181,Charlotte,Castillo,21,Male,New Jersey,699,59585.54,46,0,2022-12-01,0,,
+C0182,Justin,Jones,19,Female,Maryland,850,101203.68,155,0,2013-08-01,0,,
+C0183,Paul,Cook,48,Female,New York,617,93172.76,29,0,2023-06-01,0,,
+C0184,Emma,Reed,62,Male,New York,785,25140.71,157,1,2012-11-01,0,,
+C0185,Matthew,White,27,Female,Ohio,758,62928.44,64,1,2020-10-01,0,,
+C0186,Natalie,Kelly,19,Female,Ohio,690,94539.69,178,1,2011-12-01,0,,
+C0187,Helen,Ruiz,26,Female,Ohio,716,116338.77,158,1,2012-06-01,0,,
+C0188,Nathan,Hughes,54,Female,Maryland,741,28857.48,171,1,2011-09-01,0,,
+C0189,Zachary,Ortiz,64,Female,Pennsylvania,794,88785.16,145,1,2013-03-01,0,,
+C0190,Katherine,Gutierrez,47,Male,New York,509,65303.37,150,1,2013-07-01,0,,
+C0191,Kyle,Reed,22,Female,Ohio,563,86637.44,6,0,2025-06-01,0,,
+C0192,Isabella,Rodriguez,53,Male,Pennsylvania,760,66468.35,121,0,2015-11-01,0,,
+C0193,Olivia,Mitchell,43,Female,New Jersey,850,89422.66,97,1,2017-02-01,0,,
+C0194,Amanda,Morgan,44,Male,New York,688,18000,1,1,2025-07-01,0,,
+C0195,Ryan,Young,48,Female,New York,741,103571.81,71,1,2020-10-01,0,,
+C0196,John,Walker,32,Male,Pennsylvania,785,68217.67,153,1,2013-07-01,0,,
+C0197,Peter,Robinson,53,Male,Pennsylvania,613,61555.02,36,0,2022-10-01,0,,
+C0198,Roy,Adams,34,Female,New York,598,58974.14,170,0,2011-10-01,1,2024-11-15,Switched to Online Bank
+C0199,Marilyn,Diaz,54,Female,Pennsylvania,791,50223.03,89,1,2018-03-01,0,,
+C0200,Scott,Carter,30,Female,New York,640,94761.18,58,0,2021-07-01,0,,
+C0201,Dylan,Ortiz,27,Female,New York,713,92381.48,66,0,2020-12-01,0,,
+C0202,Timothy,Miller,36,Female,Maryland,710,64103.44,155,1,2013-04-01,0,,
+C0203,Jeremy,Clark,40,Female,Pennsylvania,850,40351.26,55,0,2021-08-01,1,2024-12-15,Inactive Account Closed
+C0204,Arthur,Price,32,Female,New York,651,78161.03,142,1,2014-06-01,0,,
+C0205,Cheryl,Murphy,48,Male,New Jersey,746,51145.04,82,1,2019-03-01,0,,
+C0206,John,King,54,Female,Ohio,699,77006.28,40,1,2022-11-01,0,,
+C0207,Gregory,Allen,67,Female,New Jersey,749,96109.27,118,0,2016-09-01,1,2025-03-15,Life Event
+C0208,Gerald,Chavez,22,Male,Pennsylvania,688,62747.27,172,0,2011-04-01,1,2024-12-15,Life Event
+C0209,Joshua,Johnson,32,Female,Ohio,592,39999.2,16,1,2024-01-01,0,,
+C0210,Sean,Peterson,45,Male,Pennsylvania,662,35161.43,136,1,2014-07-01,0,,
+C0211,Amanda,Wilson,25,Male,New York,635,50529.46,50,0,2021-07-01,0,,
+C0212,Lauren,Reed,34,Male,Ohio,695,54043.28,176,0,2011-07-01,0,,
+C0213,Maria,Carter,54,Female,Pennsylvania,728,62800.53,164,1,2012-10-01,0,,
+C0214,Matthew,Ortiz,21,Male,New York,749,45774.7,178,0,2011-11-01,1,2025-09-15,Better Rates Elsewhere
+C0215,Harold,James,21,Male,Ohio,783,54985.48,5,1,2025-02-01,0,,
+C0216,Scott,Lee,55,Male,Maryland,635,37394.96,100,0,2017-12-01,0,,
+C0217,Natalie,Hernandez,51,Female,Pennsylvania,538,78181.99,26,0,2023-10-01,1,2025-06-15,Inactive Account Closed
+C0218,Linda,Brooks,36,Female,New Jersey,562,103211.63,59,1,2021-02-01,0,,
+C0219,Bruce,Nguyen,70,Male,Pennsylvania,671,83374.36,22,1,2024-06-01,0,,
+C0220,Margaret,Lopez,19,Female,New Jersey,682,51808.72,93,0,2018-08-01,1,2025-02-15,Fees Too High
+C0221,Michael,Lopez,41,Male,Maryland,714,19101.02,154,0,2013-07-01,1,2024-12-15,Fees Too High
+C0222,Ann,Young,55,Male,New Jersey,723,76262.6,44,1,2022-07-01,0,,
+C0223,Scott,Morris,69,Male,Ohio,800,49932.77,65,1,2020-03-01,0,,
+C0224,Nicole,Smith,44,Female,Maryland,703,43452.33,98,0,2017-10-01,0,,
+C0225,Paul,Hill,39,Male,New Jersey,715,81920.4,81,0,2019-10-01,0,,
+C0226,Gary,Adams,43,Female,New Jersey,757,80593.29,94,1,2018-09-01,0,,
+C0227,Michael,Sanders,48,Male,New Jersey,694,54733.75,75,0,2019-03-01,0,,
+C0228,Willie,Hill,34,Female,New York,687,53634.02,109,1,2016-09-01,0,,
+C0229,Beverly,Turner,53,Male,Ohio,758,45336.8,180,1,2010-11-01,0,,
+C0230,Randy,Rivera,29,Male,Maryland,644,42044.84,166,0,2012-01-01,0,,
+C0231,Betty,King,33,Male,New Jersey,573,85917.49,96,1,2017-01-01,0,,
+C0232,Evelyn,Wilson,37,Female,Pennsylvania,743,30939.01,30,1,2023-09-01,0,,
+C0233,Evelyn,Hall,49,Male,New Jersey,651,64415.02,179,0,2011-02-01,1,2024-06-15,Life Event
+C0234,Grace,Wilson,62,Male,New York,701,73560.36,133,0,2014-07-01,0,,
+C0235,Judy,White,30,Female,New Jersey,666,18000,8,0,2025-04-01,0,,
+C0236,Edward,Scott,67,Male,Maryland,710,36012.25,27,1,2023-11-01,0,,
+C0237,Judith,Ortiz,59,Female,Maryland,598,43165.65,100,0,2017-08-01,1,2024-11-15,Inactive Account Closed
+C0238,Russell,Hill,58,Male,New York,730,74671.45,81,0,2019-03-01,1,2025-07-15,Life Event
+C0239,Lawrence,Moore,55,Female,New Jersey,581,64285.16,48,0,2021-03-01,0,,
+C0240,Judith,Torres,27,Male,Ohio,562,31951.4,116,1,2016-07-01,0,,
+C0241,Ann,Cook,60,Female,New Jersey,554,63799.15,176,1,2011-04-01,0,,
+C0242,Justin,Jones,36,Male,Maryland,723,83182.45,74,0,2019-02-01,0,,
+C0243,Jordan,Anderson,36,Female,Maryland,685,38306.01,11,0,2025-02-01,1,2024-05-15,Fees Too High
+C0244,David,Edwards,35,Female,Pennsylvania,706,53766.44,113,1,2016-12-01,0,,
+C0245,Rachel,Price,58,Female,New York,714,73487.18,158,0,2012-10-01,1,2025-09-15,Better Rates Elsewhere
+C0246,Brenda,Kim,53,Male,Ohio,664,78825.66,75,0,2019-02-01,0,,
+C0247,Paul,Long,69,Female,Pennsylvania,707,53501.36,71,1,2020-04-01,0,,
+C0248,Marilyn,Gomez,50,Male,Maryland,670,84595.98,162,1,2012-02-01,0,,
+C0249,Ruth,Rogers,66,Female,Ohio,747,55976.22,117,0,2016-12-01,1,2024-12-15,Inactive Account Closed
+C0250,Lauren,Brooks,61,Female,Pennsylvania,511,96615.28,137,1,2014-05-01,0,,
+C0251,Gregory,Peterson,55,Male,Maryland,720,18000,125,1,2015-08-01,0,,
+C0252,John,Thomas,29,Female,New Jersey,764,60808.4,1,0,2025-05-01,0,,
+C0253,Kenneth,Scott,24,Female,Ohio,560,96324.0,22,0,2024-11-01,1,2025-12-15,Fees Too High
+C0254,Isabella,Long,33,Female,Pennsylvania,771,62170.92,25,0,2023-09-01,1,2025-01-15,Poor Customer Service
+C0255,Robert,Hughes,40,Male,New Jersey,700,68225.51,178,0,2011-06-01,0,,
+C0256,Jack,Hill,27,Female,New York,724,61458.33,165,1,2012-08-01,0,,
+C0257,Rachel,Castillo,32,Male,New Jersey,618,21796.54,158,0,2012-03-01,1,2024-10-15,Better Rates Elsewhere
+C0258,Philip,Roberts,41,Female,Ohio,681,93642.84,36,1,2022-05-01,0,,
+C0259,Ralph,Brown,61,Female,New York,639,53145.71,133,1,2014-04-01,0,,
+C0260,Christian,Roberts,26,Male,New Jersey,598,46991.38,164,0,2012-03-01,0,,
+C0261,Heather,Reed,45,Female,Maryland,722,83961.61,175,1,2011-01-01,0,,
+C0262,Shirley,Ramirez,21,Male,New Jersey,651,95833.98,130,1,2015-11-01,0,,
+C0263,Martha,Morgan,58,Male,Ohio,644,86483.76,22,0,2024-03-01,1,2025-07-15,Inactive Account Closed
+C0264,Bryan,Brooks,67,Male,Ohio,496,82854.93,179,0,2011-02-01,1,2025-02-15,Poor Customer Service
+C0265,Kyle,Ward,57,Male,Ohio,673,25904.77,171,0,2011-03-01,1,2024-03-15,Life Event
+C0266,Megan,Hall,52,Female,New York,777,89443.66,96,0,2017-01-01,1,2025-07-15,Better Rates Elsewhere
+C0267,Anna,Ortiz,23,Female,Maryland,758,73287.78,161,1,2012-06-01,0,,
+C0268,Kenneth,Allen,68,Male,Maryland,670,46388.28,173,1,2011-04-01,0,,
+C0269,Barbara,Stewart,42,Female,New York,823,43796.3,46,0,2022-07-01,0,,
+C0270,Laura,Adams,34,Female,Ohio,727,36560.77,70,0,2020-01-01,1,2024-04-15,Life Event
+C0271,Terry,Garcia,44,Male,New Jersey,690,43228.87,73,0,2019-01-01,1,2025-04-15,Fees Too High
+C0272,Justin,Reed,69,Female,Maryland,575,68617.1,63,0,2020-09-01,0,,
+C0273,Gary,Martin,19,Female,Pennsylvania,570,53928.57,60,1,2020-11-01,0,,
+C0274,Dennis,Patel,65,Female,Pennsylvania,622,58977.9,53,1,2021-12-01,0,,
+C0275,Brenda,Lopez,21,Male,Maryland,656,41766.06,106,1,2017-03-01,0,,
+C0276,Sophia,Gomez,23,Male,New Jersey,737,58394.59,170,1,2011-12-01,0,,
+C0277,Harry,Adams,39,Female,Ohio,728,68696.98,60,1,2020-03-01,0,,
+C0278,Kelly,Reyes,39,Female,Pennsylvania,593,91333.83,138,1,2014-02-01,0,,
+C0279,Kenneth,Mendoza,38,Male,New York,755,89833.88,84,0,2018-05-01,0,,
+C0280,Eric,Thompson,20,Female,New Jersey,679,45319.31,143,0,2014-01-01,0,,
+C0281,Jessica,Jimenez,33,Male,New York,601,84322.84,103,1,2017-02-01,0,,
+C0282,Jennifer,Rodriguez,31,Female,New York,804,38762.57,24,1,2023-03-01,0,,
+C0283,Jordan,Parker,71,Female,New Jersey,617,77592.65,8,0,2025-08-01,0,,
+C0284,Joshua,Jones,58,Male,Ohio,593,76616.1,128,0,2015-07-01,1,2024-07-15,Relocation
+C0285,Stephanie,Chavez,70,Male,Maryland,819,59445.62,5,1,2025-10-01,0,,
+C0286,Keith,Adams,43,Female,New York,656,76043.03,7,0,2025-08-01,0,,
+C0287,Jacqueline,Rivera,68,Male,New York,680,78342.46,26,0,2023-04-01,0,,
+C0288,Madison,Roberts,41,Male,New York,558,40114.28,61,0,2020-12-01,0,,
+C0289,Alexander,Reed,55,Male,Maryland,755,27686.52,49,1,2021-01-01,0,,
+C0290,Nancy,Davis,33,Male,Pennsylvania,608,64723.09,135,0,2014-03-01,0,,
+C0291,Samuel,Davis,20,Male,Maryland,703,19907.51,37,0,2022-11-01,0,,
+C0292,Diane,Ramos,25,Female,Ohio,710,71738.94,83,0,2019-11-01,0,,
+C0293,Samantha,Thompson,64,Female,New York,637,54756.2,171,1,2011-12-01,0,,
+C0294,James,Hughes,55,Female,Maryland,708,79528.93,9,1,2025-02-01,0,,
+C0295,Megan,Jackson,40,Male,New York,728,60526.32,89,1,2018-11-01,0,,
+C0296,Philip,Nelson,47,Male,Ohio,680,70243.5,54,0,2021-12-01,1,2024-01-15,Better Rates Elsewhere
+C0297,Jerry,Cruz,65,Female,New York,602,62932.71,106,1,2017-10-01,0,,
+C0298,Wayne,Ross,62,Male,New York,818,81003.68,116,1,2016-02-01,0,,
+C0299,Debra,Perez,43,Male,Pennsylvania,850,40271.66,141,0,2014-12-01,0,,
+C0300,Linda,Parker,60,Male,Maryland,700,70482.7,112,0,2016-07-01,1,2025-11-15,Poor Customer Service
+C0301,Larry,Hill,34,Male,Pennsylvania,542,43648.85,101,0,2017-01-01,1,2025-02-15,Relocation
+C0302,Emma,James,59,Female,New York,728,64168.03,25,1,2023-05-01,0,,
+C0303,Diane,Stewart,50,Female,Pennsylvania,630,58149.68,165,1,2012-05-01,0,,
+C0304,Peter,Reyes,35,Male,Ohio,803,75880.14,145,1,2013-09-01,0,,
+C0305,Julie,Long,56,Male,Maryland,759,27798.33,16,1,2024-08-01,0,,
+C0306,Jordan,Walker,49,Female,Pennsylvania,783,42025.41,102,0,2017-11-01,0,,
+C0307,Bruce,Jackson,26,Female,New York,823,55040.36,43,0,2022-02-01,1,2025-04-15,Fees Too High
+C0308,Albert,Jackson,72,Female,Ohio,767,76584.46,18,0,2024-01-01,0,,
+C0309,Isabella,Richardson,56,Female,Pennsylvania,740,84977.8,107,0,2017-02-01,0,,
+C0310,Harold,Jimenez,25,Female,Maryland,725,50039.59,89,1,2018-03-01,0,,
+C0311,Stephen,Phillips,28,Female,Pennsylvania,735,49374.08,102,0,2017-06-01,0,,
+C0312,Jennifer,Baker,71,Female,Ohio,767,25705.81,72,0,2019-05-01,0,,
+C0313,Victoria,Jimenez,71,Female,Ohio,652,56169.2,107,0,2017-08-01,0,,
+C0314,Terry,Mitchell,71,Male,Maryland,795,75862.38,41,0,2022-10-01,0,,
+C0315,Linda,Thompson,31,Male,Pennsylvania,705,63461.99,64,1,2020-08-01,0,,
+C0316,Andrea,Gomez,59,Male,Pennsylvania,605,83218.35,62,0,2020-08-01,1,2025-06-15,Inactive Account Closed
+C0317,Michelle,King,66,Male,Ohio,643,70579.08,8,0,2025-11-01,0,,
+C0318,Laura,Gray,32,Female,New Jersey,818,66812.96,132,1,2014-11-01,0,,
+C0319,Brian,Kim,70,Male,New York,531,28857.02,65,1,2020-07-01,0,,
+C0320,Rachel,Collins,35,Male,New Jersey,614,25189.24,78,1,2019-11-01,0,,
+C0321,Catherine,Bailey,60,Female,Ohio,702,67019.92,176,1,2011-05-01,0,,
+C0322,Denise,Alvarez,60,Female,New York,621,60231.18,39,0,2022-10-01,1,2025-11-15,Inactive Account Closed
+C0323,Samantha,Mendoza,27,Male,New Jersey,675,84870.63,76,1,2019-10-01,0,,
+C0324,Timothy,Baker,65,Male,Maryland,717,18000,164,1,2012-11-01,0,,
+C0325,Dylan,White,37,Male,New Jersey,672,26697.54,33,0,2023-06-01,0,,
+C0326,Denise,Lopez,33,Female,New York,533,84005.73,79,1,2019-02-01,0,,
+C0327,Ethan,Miller,59,Male,New Jersey,519,61867.33,50,0,2021-03-01,0,,
+C0328,Kimberly,Sanchez,40,Female,Maryland,779,96320.09,118,0,2016-08-01,1,2025-11-15,Better Rates Elsewhere
+C0329,Amanda,Green,59,Male,Pennsylvania,660,98826.6,116,0,2016-03-01,1,2025-02-15,Inactive Account Closed
+C0330,Dorothy,Ward,46,Female,New Jersey,756,57324.69,110,0,2016-12-01,1,2025-01-15,Poor Customer Service
+C0331,Samuel,Long,72,Male,Pennsylvania,810,62927.07,174,0,2011-05-01,1,2024-02-15,Relocation
+C0332,Jerry,Cook,56,Female,New York,710,45443.03,17,0,2024-06-01,0,,
+C0333,Virginia,Mendoza,27,Female,New Jersey,680,48793.26,92,0,2018-04-01,0,,
+C0334,Philip,Taylor,32,Male,Maryland,717,80358.87,130,1,2015-05-01,0,,
+C0335,Sean,Richardson,22,Male,Pennsylvania,692,56070.53,168,0,2011-07-01,1,2024-09-15,Fees Too High
+C0336,Nicholas,Stewart,63,Male,New York,675,59233.73,178,1,2011-10-01,0,,
+C0337,Jean,Hughes,27,Female,Pennsylvania,672,51199.83,131,0,2015-08-01,1,2024-10-15,Better Rates Elsewhere
+C0338,Stephanie,Jimenez,35,Male,Ohio,673,67986.76,105,1,2017-06-01,0,,
+C0339,Jacob,Smith,19,Male,Pennsylvania,657,51080.08,147,0,2013-02-01,1,2024-05-15,Switched to Online Bank
+C0340,Alan,Robinson,48,Female,Ohio,819,74472.04,119,0,2016-11-01,0,,
+C0341,Benjamin,Diaz,66,Male,Pennsylvania,723,62729.31,12,1,2024-10-01,0,,
+C0342,Jonathan,Sanders,24,Female,Ohio,741,76588.66,47,0,2022-08-01,0,,
+C0343,Olivia,Wood,70,Male,Pennsylvania,670,54784.64,34,1,2023-10-01,0,,
+C0344,Evelyn,Reed,62,Female,New York,625,76216.89,157,0,2012-12-01,1,2024-08-15,Life Event
+C0345,Walter,Anderson,45,Female,Pennsylvania,674,81058.14,17,1,2024-10-01,0,,
+C0346,Natalie,Reed,33,Female,Maryland,637,33738.84,134,0,2014-11-01,0,,
+C0347,Marilyn,Chavez,43,Male,Maryland,788,72620.79,157,0,2012-08-01,1,2025-03-15,Inactive Account Closed
+C0348,Karen,Long,50,Female,New York,705,60681.22,85,0,2018-07-01,1,2025-04-15,Life Event
+C0349,Charles,Collins,47,Female,Pennsylvania,641,65610.87,128,1,2015-07-01,0,,
+C0350,Elizabeth,Bailey,54,Male,Pennsylvania,790,54811.81,155,1,2013-08-01,0,,
+C0351,Debra,Campbell,71,Male,New York,612,94699.79,117,1,2016-08-01,0,,
+C0352,Sandra,Gonzalez,67,Male,Pennsylvania,610,86618.69,88,1,2018-02-01,0,,
+C0353,Barbara,Perez,50,Male,New Jersey,678,76523.33,28,0,2023-07-01,1,2024-08-15,Inactive Account Closed
+C0354,Timothy,Alvarez,40,Male,New Jersey,816,43343.77,12,0,2024-11-01,0,,
+C0355,Bryan,Cook,27,Female,Pennsylvania,671,34177.64,136,1,2014-03-01,0,,
+C0356,Beverly,Howard,30,Male,Pennsylvania,620,36895.75,100,0,2017-10-01,0,,
+C0357,Beverly,Ross,34,Female,New Jersey,766,57546.12,88,0,2018-10-01,1,2025-12-15,Fees Too High
+C0358,Carl,Green,64,Male,New York,632,49177.27,54,1,2021-11-01,0,,
+C0359,Amanda,Cook,53,Female,Pennsylvania,582,50904.85,91,1,2018-09-01,0,,
+C0360,Pamela,Diaz,70,Male,Maryland,724,63949.54,28,1,2023-03-01,0,,
+C0361,Pamela,Mendoza,35,Male,Pennsylvania,691,47483.7,177,1,2011-10-01,0,,
+C0362,Roy,Patel,54,Male,Maryland,690,100416.32,100,1,2017-07-01,0,,
+C0363,Heather,Turner,69,Female,Maryland,740,63362.14,14,0,2024-04-01,0,,
+C0364,Willie,Price,64,Female,Maryland,676,47487.01,140,1,2014-11-01,0,,
+C0365,Karen,White,30,Male,New Jersey,588,74184.04,11,0,2025-05-01,1,2024-06-15,Switched to Online Bank
+C0366,Christina,Price,28,Male,New York,566,40314.86,83,0,2019-10-01,0,,
+C0367,Carl,Rivera,23,Female,Maryland,773,54877.66,57,1,2021-07-01,0,,
+C0368,Nancy,Hall,33,Male,Ohio,643,73851.95,85,1,2018-11-01,0,,
+C0369,Robert,Anderson,61,Female,New Jersey,771,44865.3,62,0,2020-06-01,0,,
+C0370,Maria,Anderson,43,Female,Maryland,775,66102.76,73,1,2019-08-01,0,,
+C0371,Barbara,Nguyen,60,Male,Ohio,711,66887.68,132,0,2014-11-01,0,,
+C0372,Thomas,Clark,61,Male,New Jersey,721,101730.5,27,0,2023-02-01,0,,
+C0373,Danielle,Martin,20,Female,Ohio,702,65840.77,10,1,2025-04-01,0,,
+C0374,Eric,Evans,43,Female,New Jersey,647,81981.16,111,0,2016-11-01,1,2024-12-15,Better Rates Elsewhere
+C0375,Frances,Garcia,63,Male,Ohio,790,85927.44,129,1,2015-08-01,0,,
+C0376,Maria,Gomez,71,Male,New Jersey,637,59513.2,41,0,2022-11-01,0,,
+C0377,Andrew,Hill,62,Female,Pennsylvania,711,53398.36,142,0,2014-10-01,1,2025-09-15,Switched to Online Bank
+C0378,Carl,Hernandez,38,Male,Ohio,581,78538.2,55,1,2021-05-01,0,,
+C0379,Deborah,Anderson,30,Male,Maryland,660,55235.35,119,1,2016-10-01,0,,
+C0380,Walter,Nelson,41,Male,New York,673,70166.42,26,0,2023-08-01,1,2025-10-15,Fees Too High
+C0381,Elijah,Flores,63,Male,Maryland,634,76432.19,146,1,2013-04-01,0,,
+C0382,Bobby,Patel,60,Female,Ohio,766,88714.03,93,1,2018-05-01,0,,
+C0383,Walter,Peterson,25,Male,Maryland,766,25516.48,21,0,2024-04-01,1,2025-12-15,Switched to Online Bank
+C0384,Albert,Martinez,65,Male,Pennsylvania,580,32369.08,130,0,2015-01-01,0,,
+C0385,Teresa,King,53,Female,New York,548,90987.48,94,0,2018-09-01,0,,
+C0386,Roger,Lopez,44,Female,Maryland,599,25565.42,3,1,2025-09-01,0,,
+C0387,Kimberly,Edwards,29,Male,Maryland,567,18000,145,1,2013-04-01,0,,
+C0388,Walter,Robinson,23,Female,Ohio,732,65979.34,60,1,2020-08-01,0,,
+C0389,Barbara,Garcia,60,Female,Pennsylvania,637,48913.4,134,1,2014-07-01,0,,
+C0390,Denise,Carter,42,Male,Maryland,555,95639.6,65,1,2020-08-01,0,,
+C0391,Evelyn,Cox,19,Male,New Jersey,692,88239.99,43,1,2022-10-01,0,,
+C0392,Diana,Thomas,61,Male,New Jersey,662,37223.45,85,1,2018-07-01,0,,
+C0393,Jennifer,Young,21,Male,Maryland,739,88294.56,152,0,2013-03-01,1,2024-03-15,Switched to Online Bank
+C0394,Eric,White,52,Female,Maryland,573,27628.74,145,0,2013-04-01,0,,
+C0395,Zachary,Cox,49,Female,New York,732,35904.81,57,0,2021-11-01,0,,
+C0396,Roger,King,29,Female,New Jersey,631,53430.87,153,1,2013-09-01,0,,
+C0397,Danielle,Turner,71,Male,Maryland,755,104535.81,25,0,2023-02-01,0,,
+C0398,Nancy,Morris,61,Male,Maryland,759,20550.74,139,1,2014-06-01,0,,
+C0399,Barbara,Hughes,52,Female,New York,699,41106.11,124,0,2015-12-01,0,,
+C0400,Madison,Gonzalez,46,Male,Ohio,697,18000,123,0,2015-09-01,1,2025-05-15,Switched to Online Bank
+C0401,Timothy,Smith,64,Male,Maryland,687,63783.26,134,1,2014-06-01,0,,
+C0402,Margaret,Martin,46,Female,Ohio,612,71697.91,138,0,2014-07-01,1,2024-07-15,Life Event
+C0403,Teresa,Bailey,49,Male,Ohio,622,56306.7,144,1,2013-12-01,0,,
+C0404,Kimberly,James,26,Male,New Jersey,714,58829.08,180,0,2010-10-01,0,,
+C0405,Eugene,Mendoza,64,Male,New York,688,61499.71,100,0,2017-08-01,1,2025-02-15,Poor Customer Service
+C0406,Thomas,King,33,Female,Pennsylvania,756,67092.17,156,1,2012-12-01,0,,
+C0407,Lawrence,Davis,68,Male,New Jersey,835,64884.54,113,1,2016-10-01,0,,
+C0408,Roger,Gutierrez,63,Male,Maryland,645,43547.24,44,0,2022-05-01,0,,
+C0409,Aaron,Rivera,61,Female,New Jersey,684,65684.56,151,0,2013-12-01,0,,
+C0410,Ann,Howard,41,Female,Ohio,638,53033.19,58,1,2021-07-01,0,,
+C0411,Andrea,Wilson,54,Male,Maryland,658,71268.05,76,1,2019-10-01,0,,
+C0412,Nicholas,Ruiz,47,Female,Maryland,696,25259.83,124,1,2015-10-01,0,,
+C0413,Linda,Morris,26,Female,Pennsylvania,508,18000,98,1,2017-06-01,0,,
+C0414,Terry,Morgan,19,Female,New York,779,80164.89,74,1,2019-08-01,0,,
+C0415,Benjamin,Rivera,32,Female,New York,727,55936.75,175,1,2011-05-01,0,,
+C0416,Edward,Robinson,31,Male,Maryland,701,70679.89,92,1,2018-10-01,0,,
+C0417,Mary,Ross,53,Male,New Jersey,612,44385.54,96,0,2017-08-01,0,,
+C0418,George,Ross,51,Female,New Jersey,680,50473.69,57,1,2021-01-01,0,,
+C0419,Keith,Hall,44,Male,New Jersey,651,38854.83,31,1,2023-10-01,0,,
+C0420,Betty,Adams,42,Female,New York,674,79374.68,141,1,2014-07-01,0,,
+C0421,Rebecca,Turner,63,Female,Ohio,670,75615.91,103,0,2017-11-01,1,2024-02-15,Switched to Online Bank
+C0422,Mason,Wright,70,Male,Maryland,712,50589.15,111,0,2016-01-01,0,,
+C0423,Amanda,Turner,50,Male,Maryland,654,24065.24,137,1,2014-07-01,0,,
+C0424,Betty,Ruiz,29,Male,New York,568,66555.64,66,1,2020-09-01,0,,
+C0425,Dylan,Allen,41,Male,New Jersey,608,88718.73,32,1,2023-09-01,0,,
+C0426,Brian,Jimenez,37,Female,Ohio,542,59509.06,173,1,2011-08-01,0,,
+C0427,Judy,Jackson,29,Female,New Jersey,617,47466.18,162,1,2012-06-01,0,,
+C0428,Samantha,Wood,37,Female,Maryland,547,90093.21,166,0,2012-09-01,0,,
+C0429,Kelly,Evans,29,Male,Pennsylvania,663,29910.83,33,1,2023-03-01,0,,
+C0430,Diane,Wilson,25,Male,New Jersey,809,74531.57,141,0,2014-10-01,0,,
+C0431,Donna,Hernandez,60,Female,Ohio,681,79987.08,59,1,2021-01-01,0,,
+C0432,David,James,41,Female,New Jersey,778,57704.42,120,1,2015-12-01,0,,
+C0433,Gerald,Thompson,56,Female,Maryland,566,57384.26,112,0,2016-08-01,1,2024-02-15,Relocation
+C0434,Victoria,Flores,42,Female,Ohio,679,62282.21,40,0,2022-08-01,0,,
+C0435,Sean,Johnson,63,Female,New Jersey,764,63338.7,77,0,2019-06-01,0,,
+C0436,Timothy,Evans,54,Female,New Jersey,747,92753.5,64,1,2020-07-01,0,,
+C0437,Albert,Walker,52,Female,Ohio,673,22020.3,167,0,2012-05-01,0,,
+C0438,Mark,Brooks,48,Female,Ohio,643,52109.16,180,0,2010-09-01,1,2024-03-15,Better Rates Elsewhere
+C0439,Anthony,Torres,36,Male,New Jersey,684,74500.41,3,1,2025-08-01,0,,
+C0440,Catherine,Reyes,63,Male,Ohio,789,18000,21,0,2024-07-01,1,2024-09-15,Inactive Account Closed
+C0441,Ethan,White,31,Female,New Jersey,778,88085.09,4,0,2025-08-01,1,2024-12-15,Inactive Account Closed
+C0442,David,Sanchez,48,Male,Maryland,769,59208.5,171,1,2011-11-01,0,,
+C0443,Philip,Garcia,66,Male,Ohio,645,50803.55,124,0,2015-02-01,0,,
+C0444,Jacob,Brooks,46,Female,Pennsylvania,709,33961.59,43,1,2022-10-01,0,,
+C0445,Ralph,Stewart,63,Male,Ohio,680,87899.17,23,1,2024-11-01,0,,
+C0446,Jessica,Davis,41,Male,Maryland,720,73380.58,28,0,2023-08-01,0,,
+C0447,Brittany,Harris,20,Female,Ohio,679,68244.95,35,1,2023-08-01,0,,
+C0448,Timothy,Reed,30,Female,Ohio,656,102984.31,120,0,2015-03-01,0,,
+C0449,Kelly,Nguyen,71,Female,Maryland,547,72827.17,94,0,2018-10-01,0,,
+C0450,Janet,Jimenez,58,Male,Ohio,625,39044.04,17,1,2024-09-01,0,,
+C0451,Donna,Ward,37,Female,New Jersey,664,70901.68,165,1,2012-03-01,0,,
+C0452,David,Sanchez,25,Female,New York,792,68259.91,26,1,2023-10-01,0,,
+C0453,Angela,Miller,42,Male,Maryland,850,66071.45,19,0,2024-08-01,0,,
+C0454,Sophia,Davis,42,Female,Ohio,708,46523.91,15,0,2024-05-01,1,2024-04-15,Better Rates Elsewhere
+C0455,Terry,Gonzalez,25,Male,Maryland,716,86967.62,99,1,2017-12-01,0,,
+C0456,Dylan,Turner,66,Male,Maryland,623,31524.35,92,1,2018-09-01,0,,
+C0457,Aaron,Cook,40,Male,Maryland,610,69186.32,154,0,2013-06-01,0,,
+C0458,Julie,Ross,59,Female,Ohio,685,89586.24,156,1,2012-06-01,0,,
+C0459,Kelly,Edwards,44,Male,Pennsylvania,600,46963.4,73,1,2019-04-01,0,,
+C0460,Jason,Green,20,Female,Maryland,508,44605.65,131,0,2015-08-01,1,2025-03-15,Better Rates Elsewhere
+C0461,Kimberly,King,42,Male,New York,693,53042.29,66,0,2020-12-01,0,,
+C0462,Katherine,Morris,30,Female,Maryland,624,51525.26,25,0,2023-01-01,0,,
+C0463,Christine,Hall,71,Female,New Jersey,719,50485.28,31,0,2023-11-01,0,,
+C0464,Maria,Miller,38,Male,Ohio,614,54236.53,139,1,2014-07-01,0,,
+C0465,Zachary,Long,57,Male,New York,660,83346.25,111,0,2016-08-01,1,2024-09-15,Better Rates Elsewhere
+C0466,Aaron,King,24,Female,Maryland,686,50501.5,112,0,2016-04-01,1,2025-07-15,Switched to Online Bank
+C0467,Wayne,Kelly,31,Male,New York,671,85207.41,19,1,2024-07-01,0,,
+C0468,Henry,Campbell,41,Male,Ohio,665,59290.93,89,0,2018-08-01,0,,
+C0469,Alice,Jackson,47,Male,New York,661,50229.62,52,1,2021-04-01,0,,
+C0470,Bruce,Jackson,72,Female,Pennsylvania,666,51973.21,88,1,2018-09-01,0,,
+C0471,Jason,Clark,53,Female,Maryland,501,18000,124,1,2015-11-01,0,,
+C0472,Austin,Garcia,35,Male,Pennsylvania,717,94357.78,73,1,2019-02-01,0,,
+C0473,Heather,James,36,Female,Pennsylvania,636,105993.64,5,0,2025-12-01,0,,
+C0474,Betty,Green,50,Male,New York,591,61900.43,51,1,2021-09-01,0,,
+C0475,Brandon,Nelson,50,Female,New York,637,78817.24,5,1,2025-09-01,0,,
+C0476,Stephen,Davis,59,Female,New Jersey,850,43538.47,8,0,2025-07-01,1,2024-02-15,Relocation
+C0477,Philip,Carter,52,Male,New Jersey,604,51742.16,62,1,2020-03-01,0,,
+C0478,Edward,Wood,27,Male,New York,615,18394.42,80,1,2019-03-01,0,,
+C0479,Denise,Reed,29,Female,Pennsylvania,555,54787.54,143,0,2014-03-01,1,2024-06-15,Inactive Account Closed
+C0480,Julie,Evans,38,Female,Ohio,686,51719.72,39,0,2022-10-01,1,2025-10-15,Inactive Account Closed
+C0481,Sara,Ward,33,Male,New York,712,63460.83,176,1,2011-08-01,0,,
+C0482,Bobby,Wood,42,Male,New Jersey,632,64152.56,126,1,2015-05-01,0,,
+C0483,Julie,Lewis,66,Male,New York,768,111085.34,17,1,2024-08-01,0,,
+C0484,Amy,Diaz,44,Male,Maryland,665,40360.21,98,1,2017-11-01,0,,
+C0485,Russell,Jones,52,Male,New Jersey,690,56266.32,117,1,2016-12-01,0,,
+C0486,William,Bailey,43,Male,New York,525,78942.6,75,1,2019-05-01,0,,
+C0487,Gabriel,Miller,63,Male,New Jersey,557,72529.72,166,0,2012-10-01,1,2024-07-15,Inactive Account Closed
+C0488,Julie,Adams,47,Male,New York,573,43325.51,117,0,2016-02-01,1,2025-06-15,Fees Too High
+C0489,Beverly,Wood,64,Male,Pennsylvania,745,77799.36,24,1,2023-09-01,0,,
+C0490,Gabriel,Lee,43,Female,Pennsylvania,767,47120.62,44,1,2022-03-01,0,,
+C0491,Bobby,Miller,45,Female,Ohio,667,75479.36,115,0,2016-05-01,0,,
+C0492,Patricia,Collins,50,Female,Maryland,607,45895.89,2,0,2025-08-01,1,2025-07-15,Life Event
+C0493,Victoria,Hernandez,57,Male,New York,660,92483.84,141,1,2014-01-01,0,,
+C0494,Denise,Hall,21,Male,Pennsylvania,584,47903.16,171,1,2011-03-01,0,,
+C0495,Michelle,Gray,37,Male,New Jersey,666,66575.37,149,1,2013-02-01,0,,
+C0496,Joyce,Peterson,23,Female,New Jersey,794,92233.16,35,1,2023-04-01,0,,
+C0497,Gabriel,Davis,25,Male,New Jersey,568,38286.16,177,1,2011-05-01,0,,
+C0498,Austin,Kelly,58,Female,New York,590,51783.11,158,1,2012-10-01,0,,
+C0499,Cynthia,Price,37,Male,Pennsylvania,790,66629.28,31,0,2023-04-01,1,2025-07-15,Inactive Account Closed
+C0500,Barbara,Nelson,41,Male,Pennsylvania,699,79058.61,164,1,2012-06-01,0,,
+C0501,Mary,Anderson,62,Female,Ohio,662,31955.07,102,0,2017-04-01,1,2025-06-15,Poor Customer Service
+C0502,Roy,Morris,49,Male,New York,729,82251.59,124,0,2015-07-01,0,,
+C0503,Joseph,Gutierrez,38,Female,Maryland,784,65388.2,138,0,2014-02-01,0,,
+C0504,Joshua,Scott,72,Male,Ohio,572,31812.58,97,1,2017-05-01,0,,
+C0505,Russell,Green,64,Male,Ohio,820,85365.36,106,0,2017-09-01,0,,
+C0506,Nicole,Thompson,26,Female,Pennsylvania,754,49658.68,52,0,2021-09-01,1,2024-04-15,Fees Too High
+C0507,Debra,Morris,65,Female,Ohio,684,52069.35,37,1,2022-04-01,0,,
+C0508,Natalie,Jones,48,Female,Maryland,850,63318.36,30,1,2023-08-01,0,,
+C0509,Barbara,Wilson,52,Female,Pennsylvania,686,30646.08,148,0,2013-04-01,1,2025-05-15,Poor Customer Service
+C0510,Sean,Green,68,Female,Pennsylvania,717,76187.88,70,0,2020-09-01,1,2024-04-15,Switched to Online Bank
+C0511,Gerald,Hall,54,Female,Ohio,815,48142.49,37,1,2022-06-01,0,,
+C0512,Gerald,Cruz,22,Male,Pennsylvania,701,57958.25,121,1,2015-12-01,0,,
+C0513,Lawrence,Ramos,59,Female,Maryland,623,99491.46,92,1,2018-08-01,0,,
+C0514,Sara,Taylor,24,Female,Pennsylvania,637,91386.78,117,1,2016-03-01,0,,
+C0515,Abigail,King,42,Female,New York,742,52213.56,180,1,2010-02-01,0,,
+C0516,Joan,Anderson,41,Female,New Jersey,665,81953.07,44,1,2022-12-01,0,,
+C0517,Margaret,Adams,54,Male,Ohio,576,69136.81,137,0,2014-09-01,1,2024-08-15,Poor Customer Service
+C0518,Jerry,Rodriguez,40,Male,Maryland,698,39022.97,111,1,2016-11-01,0,,
+C0519,Doris,Martinez,66,Female,Pennsylvania,621,50919.62,152,0,2013-03-01,1,2025-07-15,Fees Too High
+C0520,Sarah,Kim,25,Female,Ohio,662,55807.66,127,1,2015-11-01,0,,
+C0521,James,Long,28,Male,New Jersey,651,91392.02,137,1,2014-05-01,0,,
+C0522,Sara,Gray,38,Female,Ohio,584,46973.92,23,0,2024-01-01,0,,
+C0523,Jack,Peterson,22,Male,Maryland,730,73393.61,92,0,2018-12-01,1,2025-11-15,Fees Too High
+C0524,Samantha,Alvarez,43,Female,New Jersey,566,52930.41,112,1,2016-06-01,0,,
+C0525,Nathan,Martin,37,Male,New York,692,63705.61,3,1,2025-03-01,0,,
+C0526,Lisa,Moore,60,Female,New Jersey,613,47864.47,179,0,2011-07-01,1,2025-07-15,Switched to Online Bank
+C0527,Alexander,Lewis,30,Female,Maryland,543,41955.68,2,0,2025-05-01,1,2025-09-15,Switched to Online Bank
+C0528,Madison,Campbell,21,Male,Maryland,669,51648.29,124,1,2015-12-01,0,,
+C0529,Austin,Long,68,Female,New Jersey,828,83814.03,133,0,2014-11-01,1,2024-11-15,Fees Too High
+C0530,Willie,Cooper,70,Female,Maryland,761,46496.86,14,0,2024-09-01,1,2025-10-15,Fees Too High
+C0531,Brittany,Nelson,45,Female,Ohio,741,91452.56,75,1,2019-05-01,0,,
+C0532,Jessica,Watson,49,Male,Maryland,643,46801.61,14,1,2024-03-01,0,,
+C0533,Andrea,Martinez,69,Female,Ohio,632,50260.49,34,0,2023-02-01,1,2024-10-15,Life Event
+C0534,Charlotte,Martin,61,Female,Ohio,671,96089.89,45,0,2022-06-01,0,,
+C0535,Lisa,Jackson,57,Male,New Jersey,687,45914.0,106,1,2017-12-01,0,,
+C0536,Frank,Miller,60,Female,Pennsylvania,719,81283.04,14,0,2024-09-01,0,,
+C0537,Cynthia,Carter,62,Female,New Jersey,778,97158.71,68,0,2020-08-01,1,2025-11-15,Inactive Account Closed
+C0538,Benjamin,Ortiz,62,Male,Pennsylvania,549,20176.32,137,0,2014-06-01,0,,
+C0539,Anna,Wright,70,Male,Ohio,603,49656.19,168,1,2011-04-01,0,,
+C0540,Hannah,Baker,62,Male,Ohio,690,62190.64,141,0,2014-02-01,1,2024-11-15,Fees Too High
+C0541,Zachary,Hall,33,Female,Ohio,788,68490.85,50,0,2021-11-01,1,2024-10-15,Switched to Online Bank
+C0542,Sophia,Thomas,64,Male,Pennsylvania,760,85428.66,155,1,2013-02-01,0,,
+C0543,Eugene,White,35,Female,New Jersey,785,49745.64,170,1,2011-11-01,0,,
+C0544,Samuel,Allen,29,Male,Ohio,626,75289.04,16,0,2024-05-01,1,2024-08-15,Inactive Account Closed
+C0545,Sarah,Morales,31,Female,New York,635,62611.7,166,1,2012-08-01,0,,
+C0546,Diana,King,25,Male,Pennsylvania,625,54757.46,19,0,2024-11-01,0,,
+C0547,James,Jones,61,Female,Ohio,626,18000,39,1,2022-08-01,0,,
+C0548,Jeremy,Parker,44,Male,Maryland,850,63135.06,58,1,2021-06-01,0,,
+C0549,Christine,Mendoza,38,Female,Pennsylvania,795,61404.68,162,0,2012-08-01,0,,
+C0550,Justin,Chavez,31,Male,Maryland,795,55442.86,11,1,2025-12-01,0,,
+C0551,Carolyn,Morales,24,Female,New York,697,63109.21,36,1,2022-09-01,0,,
+C0552,Alan,Flores,50,Female,Pennsylvania,641,78910.77,10,1,2025-11-01,0,,
+C0553,Randy,Gutierrez,48,Male,Maryland,699,59255.79,60,0,2020-01-01,1,2025-10-15,Life Event
+C0554,Barbara,Young,63,Male,Pennsylvania,563,26688.37,45,1,2022-10-01,0,,
+C0555,Thomas,Wilson,26,Female,Maryland,706,101068.41,158,0,2012-11-01,0,,
+C0556,Aaron,Adams,26,Male,Ohio,689,32615.63,55,1,2021-07-01,0,,
+C0557,Carol,Hughes,42,Male,New Jersey,700,59144.81,63,0,2020-11-01,1,2025-03-15,Inactive Account Closed
+C0558,John,Morales,24,Male,Pennsylvania,792,46575.52,46,1,2022-08-01,0,,
+C0559,Beverly,Taylor,32,Male,Ohio,623,66986.86,134,0,2014-01-01,1,2024-12-15,Life Event
+C0560,Megan,Ward,24,Female,Ohio,738,62463.05,108,0,2016-02-01,1,2025-09-15,Switched to Online Bank
+C0561,Andrea,Lewis,48,Male,Ohio,729,98834.71,14,0,2024-03-01,0,,
+C0562,Kenneth,Bennett,21,Male,Ohio,695,78204.27,73,0,2019-02-01,0,,
+C0563,Charlotte,Miller,53,Male,New York,640,63024.23,8,0,2025-06-01,0,,
+C0564,Olivia,Sanchez,66,Female,New York,663,70873.51,29,0,2023-04-01,0,,
+C0565,Christopher,Stewart,56,Female,Pennsylvania,792,101853.28,112,1,2016-12-01,0,,
+C0566,Deborah,Watson,41,Female,New York,765,86210.85,86,0,2018-02-01,1,2025-08-15,Poor Customer Service
+C0567,Olivia,Perez,67,Female,New York,567,38457.99,76,1,2019-09-01,0,,
+C0568,Ryan,Lopez,45,Female,New York,592,66066.21,152,0,2013-12-01,1,2024-04-15,Fees Too High
+C0569,Katherine,Parker,56,Male,Maryland,826,37742.11,39,1,2022-12-01,0,,
+C0570,Andrea,Jones,46,Female,New Jersey,718,40236.49,179,0,2011-01-01,1,2025-04-15,Switched to Online Bank
+C0571,Dorothy,Rivera,37,Male,Pennsylvania,612,64376.75,5,0,2025-01-01,0,,
+C0572,Kyle,Reyes,68,Male,New Jersey,699,41496.66,48,1,2021-02-01,0,,
+C0573,Jerry,Ruiz,40,Male,Ohio,682,27958.73,110,1,2016-11-01,0,,
+C0574,Charles,Richardson,40,Male,Maryland,662,67399.66,173,0,2011-06-01,0,,
+C0575,Brian,Chavez,54,Male,Maryland,726,77182.35,53,1,2021-10-01,0,,
+C0576,Isabella,Clark,67,Male,Ohio,755,46423.92,91,1,2018-08-01,0,,
+C0577,Walter,Cook,52,Male,New Jersey,637,37564.2,137,1,2014-12-01,0,,
+C0578,Thomas,Harris,48,Male,Pennsylvania,732,51144.86,101,1,2017-12-01,0,,
+C0579,Emily,Murphy,28,Male,Maryland,762,65244.8,161,0,2012-07-01,0,,
+C0580,Victoria,Patel,60,Male,Ohio,829,79180.63,49,0,2021-11-01,1,2025-07-15,Switched to Online Bank
+C0581,Jesse,Baker,60,Female,New Jersey,630,38651.22,152,1,2013-05-01,0,,
+C0582,Carol,King,33,Female,Ohio,683,55202.57,74,1,2019-03-01,0,,
+C0583,Bobby,Morgan,37,Male,New York,797,39944.69,178,0,2011-01-01,1,2025-10-15,Better Rates Elsewhere
+C0584,Steven,Cruz,35,Female,New York,660,59763.28,53,1,2021-09-01,0,,
+C0585,Michelle,Morgan,38,Male,Pennsylvania,804,46204.66,104,0,2017-12-01,0,,
+C0586,Gloria,Cook,40,Female,New Jersey,811,55004.64,75,1,2019-12-01,0,,
+C0587,Victoria,Baker,63,Male,New Jersey,744,83386.05,11,0,2025-10-01,1,2024-08-15,Fees Too High
+C0588,Carolyn,Lopez,39,Male,Maryland,713,87317.11,165,0,2012-02-01,0,,
+C0589,Martha,Edwards,62,Male,Maryland,703,80078.87,101,0,2017-06-01,0,,
+C0590,Diane,Jackson,64,Female,Ohio,634,74905.44,99,0,2017-02-01,0,,
+C0591,Sharon,Sanders,47,Female,New Jersey,746,92418.63,74,0,2019-10-01,0,,
+C0592,Janice,Lopez,28,Male,Ohio,777,60041.39,122,0,2015-07-01,0,,
+C0593,Daniel,Smith,45,Female,New Jersey,561,50103.79,45,1,2022-07-01,0,,
+C0594,Justin,Peterson,50,Male,Ohio,645,88562.05,150,0,2013-05-01,0,,
+C0595,Scott,Brooks,72,Female,Pennsylvania,646,46349.47,168,0,2011-11-01,1,2024-01-15,Life Event
+C0596,Donald,Ross,36,Female,Pennsylvania,677,32990.58,154,0,2013-08-01,0,,
+C0597,Beverly,Thomas,42,Male,Ohio,640,55930.09,42,1,2022-01-01,0,,
+C0598,Anna,Campbell,45,Female,Pennsylvania,650,92332.81,75,0,2019-11-01,1,2024-02-15,Poor Customer Service
+C0599,Janice,Long,29,Female,Ohio,699,45343.47,176,1,2011-06-01,0,,
+C0600,Andrew,Johnson,27,Female,Ohio,526,88027.81,125,0,2015-03-01,1,2024-04-15,Poor Customer Service
+C0601,Ann,Ward,63,Male,New Jersey,714,56485.57,118,0,2016-08-01,1,2025-05-15,Better Rates Elsewhere
+C0602,Ralph,Campbell,27,Female,Maryland,686,41943.18,134,1,2014-04-01,0,,
+C0603,Steven,Ruiz,28,Male,Ohio,736,122021.79,33,0,2023-01-01,0,,
+C0604,Evelyn,Long,46,Male,New York,794,68609.45,28,1,2023-01-01,0,,
+C0605,Thomas,Hill,61,Male,Pennsylvania,727,54821.03,32,1,2023-02-01,0,,
+C0606,Emily,Myers,36,Female,Ohio,765,31733.52,42,0,2022-10-01,0,,
+C0607,Patricia,Ortiz,32,Male,Ohio,760,46180.89,44,1,2022-09-01,0,,
+C0608,Theresa,Stewart,42,Male,New Jersey,728,58354.05,173,1,2011-04-01,0,,
+C0609,Jose,Anderson,67,Female,Pennsylvania,713,69598.08,120,1,2015-01-01,0,,
+C0610,Lisa,Adams,50,Male,New Jersey,554,71597.36,73,0,2019-07-01,0,,
+C0611,Justin,Diaz,31,Male,New Jersey,671,64611.31,174,1,2011-09-01,0,,
+C0612,Elijah,Gray,24,Male,New York,593,79187.69,102,0,2017-02-01,1,2025-04-15,Poor Customer Service
+C0613,Gregory,Sanchez,57,Female,Pennsylvania,747,31920.98,60,0,2020-10-01,1,2025-11-15,Life Event
+C0614,Aaron,Rivera,49,Female,New Jersey,655,98988.8,131,0,2015-08-01,1,2025-04-15,Relocation
+C0615,Albert,Moore,20,Male,Pennsylvania,661,62060.03,18,0,2024-11-01,1,2025-03-15,Switched to Online Bank
+C0616,Nicole,Richardson,58,Male,Pennsylvania,681,24418.93,170,1,2011-08-01,0,,
+C0617,Andrea,King,53,Female,Maryland,815,66142.1,140,0,2014-08-01,0,,
+C0618,Benjamin,Carter,47,Female,Pennsylvania,732,90940.34,9,0,2025-07-01,0,,
+C0619,Paul,Flores,64,Female,New Jersey,595,51287.52,29,1,2023-09-01,0,,
+C0620,Kenneth,Cook,22,Female,Ohio,614,50397.89,127,0,2015-01-01,0,,
+C0621,Linda,Ramos,21,Male,Ohio,718,34879.72,90,1,2018-07-01,0,,
+C0622,Frank,Rivera,45,Female,Pennsylvania,682,78077.59,170,1,2011-05-01,0,,
+C0623,Sandra,Baker,29,Male,Maryland,793,69496.88,84,1,2018-01-01,0,,
+C0624,Eugene,Stewart,56,Male,Ohio,616,53696.34,97,0,2017-02-01,1,2024-06-15,Fees Too High
+C0625,Megan,Cook,70,Female,New York,615,117313.85,158,0,2012-02-01,1,2024-05-15,Life Event
+C0626,Shirley,Miller,38,Female,New York,678,52346.44,160,1,2012-02-01,0,,
+C0627,Sara,Ortiz,49,Female,New York,712,31360.1,89,0,2018-09-01,0,,
+C0628,Benjamin,Sanchez,45,Female,Ohio,561,58834.66,160,0,2012-09-01,0,,
+C0629,Melissa,Kelly,50,Male,New Jersey,771,51561.6,69,0,2020-10-01,0,,
+C0630,Philip,Watson,22,Male,Ohio,707,72058.86,119,1,2016-06-01,0,,
+C0631,Thomas,Brooks,32,Female,Ohio,642,48550.11,74,1,2019-04-01,0,,
+C0632,Linda,Young,70,Female,New Jersey,600,53354.74,125,1,2015-03-01,0,,
+C0633,Linda,King,69,Female,Maryland,665,56910.92,46,0,2022-02-01,0,,
+C0634,Benjamin,Cox,38,Male,New Jersey,601,21615.88,94,0,2018-04-01,0,,
+C0635,Mark,Kelly,66,Male,Maryland,773,18000,171,1,2011-04-01,0,,
+C0636,Janice,Thomas,68,Female,Ohio,668,22295.49,150,0,2013-02-01,0,,
+C0637,Brian,Ramirez,36,Female,New Jersey,697,56336.67,66,1,2020-09-01,0,,
+C0638,Henry,Stewart,62,Male,Ohio,597,88460.27,38,1,2022-10-01,0,,
+C0639,David,Patel,61,Male,New York,614,55844.16,65,1,2020-02-01,0,,
+C0640,Sean,Walker,47,Female,Pennsylvania,840,40359.29,101,0,2017-05-01,0,,
+C0641,Rebecca,Lee,47,Female,New Jersey,675,70887.27,9,1,2025-06-01,0,,
+C0642,Diana,Diaz,71,Male,New York,677,70133.84,179,0,2011-06-01,0,,
+C0643,Kyle,Ruiz,20,Male,New York,572,72964.89,162,0,2012-11-01,1,2025-06-15,Poor Customer Service
+C0644,Madison,Hernandez,26,Male,New York,648,25395.69,133,1,2014-07-01,0,,
+C0645,Samantha,Edwards,49,Male,Ohio,622,23944.08,45,1,2022-03-01,0,,
+C0646,Tyler,Carter,72,Male,Pennsylvania,782,47249.86,6,0,2025-04-01,0,,
+C0647,Shirley,Hughes,29,Male,New Jersey,623,69377.99,159,0,2012-03-01,1,2024-01-15,Relocation
+C0648,Diana,Ortiz,46,Female,New Jersey,688,76636.07,31,0,2023-12-01,0,,
+C0649,Christian,Carter,27,Female,New York,712,102058.08,154,1,2013-03-01,0,,
+C0650,Linda,Nguyen,35,Male,Maryland,744,50377.27,116,0,2016-03-01,0,,
+C0651,Samuel,Ruiz,44,Male,New Jersey,674,45136.84,109,0,2016-01-01,1,2025-04-15,Better Rates Elsewhere
+C0652,Ethan,Rivera,57,Male,Pennsylvania,601,61385.22,65,1,2020-09-01,0,,
+C0653,William,Howard,30,Female,New York,607,62900.61,129,1,2015-07-01,0,,
+C0654,Andrew,King,26,Female,Pennsylvania,464,62293.84,33,0,2023-07-01,1,2025-05-15,Relocation
+C0655,Gabriel,Ross,35,Female,New Jersey,576,127109.37,43,1,2022-11-01,0,,
+C0656,Willie,Cruz,22,Male,New York,682,67898.25,14,1,2024-08-01,0,,
+C0657,William,Cruz,41,Female,New Jersey,777,84788.59,127,0,2015-02-01,1,2024-05-15,Relocation
+C0658,George,Perez,66,Female,Maryland,589,47070.37,170,1,2011-07-01,0,,
+C0659,Karen,Young,68,Female,Pennsylvania,799,67403.28,85,1,2018-02-01,0,,
+C0660,Samuel,Martin,20,Male,New Jersey,568,65907.52,169,0,2011-01-01,1,2025-01-15,Life Event
+C0661,Denise,Richardson,47,Female,Maryland,686,68746.78,34,0,2023-02-01,0,,
+C0662,Carl,Cox,43,Male,New Jersey,770,113248.02,66,1,2020-03-01,0,,
+C0663,Heather,Jimenez,44,Female,New York,636,99713.15,31,0,2023-10-01,0,,
+C0664,Dorothy,Rivera,61,Male,Ohio,706,84714.48,132,1,2014-02-01,0,,
+C0665,Henry,Mitchell,58,Male,New Jersey,659,64833.71,162,1,2012-11-01,0,,
+C0666,Bobby,Martin,50,Male,Ohio,518,80398.33,120,1,2015-05-01,0,,
+C0667,Amy,Gutierrez,46,Female,Maryland,510,46529.45,13,1,2024-08-01,0,,
+C0668,Amber,Castillo,55,Female,Ohio,562,42722.85,66,0,2020-11-01,1,2025-03-15,Life Event
+C0669,George,Gomez,21,Male,New Jersey,629,94494.07,77,1,2019-06-01,0,,
+C0670,Melissa,Ramirez,30,Male,Maryland,706,54468.45,67,1,2020-03-01,0,,
+C0671,Denise,Morris,48,Female,Maryland,632,100097.76,125,1,2015-11-01,0,,
+C0672,Diane,Hill,24,Male,New York,733,99710.27,4,0,2025-08-01,0,,
+C0673,Wayne,Jackson,60,Male,New Jersey,742,40719.84,161,0,2012-08-01,1,2024-08-15,Inactive Account Closed
+C0674,Henry,Williams,26,Male,New York,593,70545.94,180,0,2010-10-01,1,2024-04-15,Fees Too High
+C0675,Emma,Reed,72,Female,Pennsylvania,792,63535.12,86,0,2018-12-01,0,,
+C0676,Jesse,Kim,65,Female,Pennsylvania,602,77562.79,125,0,2015-08-01,0,,
+C0677,Cynthia,Alvarez,22,Male,New Jersey,668,69297.29,148,1,2013-08-01,0,,
+C0678,Alice,Chavez,41,Female,New Jersey,748,92056.41,6,1,2025-10-01,0,,
+C0679,Danielle,Baker,57,Female,New York,666,40426.7,76,0,2019-06-01,0,,
+C0680,Ethan,Lee,58,Male,Ohio,679,29372.31,177,0,2011-03-01,1,2025-02-15,Poor Customer Service
+C0681,Nathan,Murphy,38,Male,New York,694,63226.07,143,1,2014-09-01,0,,
+C0682,David,Rodriguez,40,Female,Pennsylvania,695,89965.33,159,0,2012-01-01,0,,
+C0683,Dylan,Wright,28,Male,Pennsylvania,742,18000,113,0,2016-10-01,0,,
+C0684,Anthony,Bailey,21,Male,New York,719,72078.62,162,0,2012-09-01,0,,
+C0685,Megan,Sanders,25,Male,Ohio,697,51776.75,86,0,2018-01-01,0,,
+C0686,Gary,Stewart,40,Female,Maryland,746,72837.25,44,1,2022-03-01,0,,
+C0687,Jacqueline,Turner,69,Male,New York,609,73685.06,110,0,2016-06-01,0,,
+C0688,Linda,Cruz,28,Male,Maryland,739,71714.96,18,0,2024-01-01,0,,
+C0689,Amber,Chavez,28,Male,Maryland,534,84252.99,76,0,2019-06-01,0,,
+C0690,Frank,Johnson,71,Female,Maryland,788,45631.67,157,1,2012-10-01,0,,
+C0691,Wayne,Cruz,63,Female,New Jersey,704,55721.65,51,1,2021-03-01,0,,
+C0692,Hannah,Cooper,37,Male,Pennsylvania,587,53463.1,131,0,2015-09-01,0,,
+C0693,Kathryn,King,34,Female,New Jersey,701,66947.39,130,1,2015-01-01,0,,
+C0694,Wayne,Thomas,47,Female,Maryland,461,80215.75,2,0,2025-11-01,0,,
+C0695,Randy,Morgan,57,Male,Ohio,649,99657.1,77,1,2019-09-01,0,,
+C0696,Harry,Young,25,Female,Maryland,729,97739.56,150,1,2013-07-01,0,,
+C0697,Charles,Lopez,22,Female,New York,687,70654.34,122,1,2015-07-01,0,,
+C0698,Shirley,Howard,50,Female,New Jersey,764,51287.42,177,0,2011-03-01,0,,
+C0699,Walter,Alvarez,48,Male,Maryland,720,72277.65,136,0,2014-06-01,0,,
+C0700,Donald,Cox,45,Male,Pennsylvania,659,59250.74,95,0,2018-05-01,1,2025-05-15,Relocation
+C0701,Emma,Morales,20,Male,New York,514,86407.35,151,1,2013-12-01,0,,
+C0702,Judith,Smith,26,Female,Pennsylvania,589,76209.48,12,0,2024-08-01,0,,
+C0703,Mason,Cox,27,Male,Maryland,595,67844.78,163,0,2012-10-01,0,,
+C0704,Randy,Richardson,45,Female,New York,667,67711.77,102,1,2017-02-01,0,,
+C0705,Kevin,Price,20,Female,Maryland,752,81762.86,166,0,2012-09-01,1,2024-10-15,Switched to Online Bank
+C0706,Hannah,Harris,67,Female,Maryland,816,97396.82,5,0,2025-05-01,1,2024-04-15,Better Rates Elsewhere
+C0707,Russell,Howard,47,Male,Maryland,634,88507.85,156,0,2012-03-01,0,,
+C0708,Nathan,Brown,52,Female,New Jersey,850,95261.98,66,1,2020-02-01,0,,
+C0709,Donna,Flores,45,Male,Pennsylvania,729,58632.99,158,1,2012-03-01,0,,
+C0710,Julie,Adams,35,Female,Pennsylvania,719,97125.11,14,1,2024-07-01,0,,
+C0711,Sandra,Wright,22,Female,New Jersey,603,75954.21,142,1,2014-05-01,0,,
+C0712,Teresa,Ramos,62,Male,New York,655,52714.83,143,1,2014-09-01,0,,
+C0713,Edward,Jackson,42,Male,New York,850,45537.19,138,1,2014-10-01,0,,
+C0714,Justin,Wood,29,Male,Pennsylvania,671,78543.05,124,0,2015-04-01,0,,
+C0715,Frances,Rogers,37,Male,New York,617,54817.43,137,1,2014-09-01,0,,
+C0716,Brenda,Parker,32,Female,Ohio,670,98681.63,163,1,2012-06-01,0,,
+C0717,Rebecca,Collins,57,Female,Pennsylvania,800,99035.11,178,0,2011-03-01,0,,
+C0718,Julie,Bailey,63,Female,New Jersey,822,83970.11,138,1,2014-11-01,0,,
+C0719,Victoria,Gray,26,Female,New Jersey,648,72697.86,154,0,2013-08-01,0,,
+C0720,Jack,Harris,47,Male,New York,686,28810.23,6,1,2025-11-01,0,,
+C0721,Nicole,Alvarez,33,Male,New Jersey,770,67874.27,93,0,2018-11-01,0,,
+C0722,Diane,Anderson,36,Female,New York,725,95822.9,142,1,2014-10-01,0,,
+C0723,Steven,Myers,23,Male,Ohio,781,26216.24,146,1,2013-01-01,0,,
+C0724,Beverly,Gray,53,Female,Maryland,764,62285.23,117,1,2016-06-01,0,,
+C0725,Douglas,Evans,36,Male,Maryland,583,62738.16,120,0,2015-04-01,1,2024-05-15,Life Event
+C0726,Olivia,Morgan,47,Female,Pennsylvania,691,70544.51,101,1,2017-12-01,0,,
+C0727,Henry,Martinez,34,Male,New York,638,90630.11,85,0,2018-07-01,1,2024-10-15,Fees Too High
+C0728,Albert,Nelson,72,Female,New York,480,71182.56,28,0,2023-04-01,0,,
+C0729,Christopher,Jimenez,57,Female,Pennsylvania,641,65750.35,161,0,2012-12-01,0,,
+C0730,Thomas,Taylor,22,Female,Pennsylvania,614,47004.88,78,0,2019-09-01,1,2024-05-15,Better Rates Elsewhere
+C0731,Maria,Phillips,25,Female,New York,706,32077.57,154,1,2013-10-01,0,,
+C0732,Bruce,Gonzalez,40,Male,New Jersey,655,74684.11,133,0,2014-12-01,1,2024-10-15,Switched to Online Bank
+C0733,Deborah,Kelly,27,Female,Ohio,569,65572.77,108,0,2016-01-01,1,2024-03-15,Poor Customer Service
+C0734,Helen,Howard,46,Female,Ohio,783,36892.06,150,0,2013-10-01,1,2025-05-15,Relocation
+C0735,Jack,Johnson,52,Male,Pennsylvania,528,60134.93,61,1,2020-04-01,0,,
+C0736,Sophia,Sanchez,69,Male,Ohio,619,32521.33,49,1,2021-10-01,0,,
+C0737,Harold,Nelson,58,Female,New Jersey,726,82628.14,85,1,2018-01-01,0,,
+C0738,Sophia,Lewis,63,Male,New Jersey,701,86514.59,160,0,2012-07-01,0,,
+C0739,Edward,Phillips,30,Male,Ohio,697,64427.23,3,0,2025-08-01,1,2024-11-15,Relocation
+C0740,Frances,Ross,42,Male,Pennsylvania,695,74884.61,51,1,2021-09-01,0,,
+C0741,Gary,Thompson,31,Male,New York,693,59587.3,68,1,2020-02-01,0,,
+C0742,Gregory,Clark,38,Female,New York,722,31878.44,95,0,2018-07-01,0,,
+C0743,Bobby,Rodriguez,26,Male,New York,707,82022.15,49,1,2021-04-01,0,,
+C0744,Barbara,Ross,58,Male,Maryland,697,42999.33,76,0,2019-05-01,1,2024-09-15,Inactive Account Closed
+C0745,Frances,Morales,32,Male,New Jersey,643,53199.55,170,0,2011-06-01,0,,
+C0746,Megan,Gutierrez,48,Male,Ohio,589,57970.48,96,1,2017-11-01,0,,
+C0747,Frances,Wood,21,Male,New York,624,66768.36,52,1,2021-03-01,0,,
+C0748,Catherine,Allen,54,Male,New York,652,87551.44,22,0,2024-08-01,1,2025-07-15,Better Rates Elsewhere
+C0749,Kelly,Reyes,46,Female,Ohio,647,81710.63,128,0,2015-05-01,1,2024-06-15,Poor Customer Service
+C0750,Lisa,Nguyen,72,Male,Ohio,705,66906.8,59,0,2021-06-01,1,2024-11-15,Poor Customer Service
+C0751,Raymond,Allen,38,Female,New York,850,61005.64,155,0,2013-01-01,0,,
+C0752,Scott,Torres,71,Female,New Jersey,738,28663.69,104,0,2017-09-01,1,2024-07-15,Life Event
+C0753,Ryan,Robinson,65,Male,New Jersey,540,58165.14,60,0,2020-02-01,0,,
+C0754,Benjamin,Harris,46,Female,New York,582,70697.37,113,0,2016-03-01,1,2025-12-15,Switched to Online Bank
+C0755,Robert,Murphy,70,Female,Ohio,573,78283.55,58,0,2021-06-01,0,,
+C0756,Bryan,Williams,55,Male,New York,850,51929.21,40,0,2022-10-01,0,,
+C0757,Tyler,Carter,32,Female,Pennsylvania,611,78341.28,137,0,2014-05-01,0,,
+C0758,Nancy,Perez,25,Male,Pennsylvania,665,58896.57,177,0,2011-05-01,1,2024-04-15,Fees Too High
+C0759,Justin,James,52,Male,New Jersey,671,64409.35,15,0,2024-02-01,0,,
+C0760,Dorothy,Morgan,45,Female,Pennsylvania,833,49726.6,100,0,2017-05-01,1,2025-12-15,Poor Customer Service
+C0761,Randy,Stewart,29,Female,Maryland,558,61480.12,52,0,2021-03-01,1,2025-02-15,Better Rates Elsewhere
+C0762,Aaron,Cox,70,Male,Maryland,819,37833.97,85,1,2018-05-01,0,,
+C0763,Grace,Collins,41,Female,New Jersey,749,23637.78,157,1,2012-07-01,0,,
+C0764,Lauren,Roberts,61,Male,Maryland,528,94926.93,25,0,2023-03-01,1,2025-11-15,Inactive Account Closed
+C0765,Martha,Nguyen,61,Male,New York,564,81716.41,127,0,2015-02-01,1,2024-09-15,Relocation
+C0766,Katherine,Evans,47,Male,Ohio,590,61066.57,54,0,2021-11-01,1,2025-07-15,Life Event
+C0767,Debra,Myers,44,Male,New Jersey,719,62732.02,10,1,2025-08-01,0,,
+C0768,Noah,Rodriguez,24,Male,New Jersey,616,65248.8,36,0,2022-01-01,1,2024-03-15,Inactive Account Closed
+C0769,Emma,Thomas,53,Female,New York,674,59091.3,20,0,2024-06-01,1,2024-04-15,Fees Too High
+C0770,Bobby,Jones,62,Male,New Jersey,788,71229.64,179,1,2011-02-01,0,,
+C0771,Heather,Ruiz,38,Female,Pennsylvania,817,63109.52,154,0,2013-04-01,0,,
+C0772,Stephanie,Lopez,20,Female,Pennsylvania,652,74272.15,4,1,2025-11-01,0,,
+C0773,Kevin,Castillo,29,Male,New Jersey,735,74262.53,132,1,2014-09-01,0,,
+C0774,Diane,Diaz,26,Male,New York,649,72652.64,28,1,2023-08-01,0,,
+C0775,Jeffrey,Rodriguez,61,Female,Maryland,840,74483.86,95,0,2018-02-01,0,,
+C0776,Bobby,Morgan,69,Male,Ohio,497,25533.38,25,1,2023-12-01,0,,
+C0777,Paul,Nelson,30,Female,New Jersey,624,87924.39,18,1,2024-04-01,0,,
+C0778,Keith,Ramos,64,Male,New York,553,30697.38,6,0,2025-07-01,1,2024-10-15,Life Event
+C0779,Charles,Davis,27,Female,New Jersey,703,82393.54,76,1,2019-08-01,0,,
+C0780,Charlotte,Nelson,27,Female,Ohio,685,55913.4,165,1,2012-01-01,0,,
+C0781,Ryan,Sanders,40,Female,New York,511,50286.15,53,1,2021-12-01,0,,
+C0782,Jeffrey,Cox,43,Female,New York,659,56145.72,114,0,2016-03-01,0,,
+C0783,Edward,Taylor,24,Male,Maryland,770,18000,141,1,2014-05-01,0,,
+C0784,Kevin,Castillo,31,Male,New Jersey,626,50461.94,46,0,2022-08-01,0,,
+C0785,Charles,Campbell,44,Female,New York,591,71398.27,121,0,2015-08-01,0,,
+C0786,Jennifer,Ross,43,Female,Pennsylvania,641,54866.74,77,1,2019-08-01,0,,
+C0787,Larry,Carter,54,Female,Pennsylvania,738,80744.46,86,0,2018-01-01,1,2024-09-15,Poor Customer Service
+C0788,Philip,Castillo,42,Female,New Jersey,850,40599.37,107,1,2017-10-01,0,,
+C0789,Christopher,Evans,21,Male,New Jersey,751,93810.98,145,0,2013-06-01,0,,
+C0790,Roger,Price,50,Female,Pennsylvania,616,77246.46,167,0,2012-01-01,1,2025-11-15,Fees Too High
+C0791,Russell,Gray,20,Male,Ohio,563,71184.63,155,0,2013-10-01,1,2024-01-15,Switched to Online Bank
+C0792,Sandra,Foster,24,Female,New Jersey,712,60543.67,151,0,2013-07-01,0,,
+C0793,Nicholas,Ruiz,38,Female,Maryland,666,25424.22,79,0,2019-10-01,0,,
+C0794,Frank,Jackson,36,Male,New Jersey,595,122578.19,179,0,2011-12-01,0,,
+C0795,Nathan,Ortiz,45,Female,New Jersey,702,74646.81,44,0,2022-03-01,1,2024-08-15,Fees Too High
+C0796,Sara,Ramirez,30,Male,Pennsylvania,698,48620.54,47,0,2022-10-01,0,,
+C0797,Margaret,Brooks,29,Male,Ohio,633,74306.43,22,1,2024-11-01,0,,
+C0798,Betty,Johnson,22,Female,Pennsylvania,474,29715.48,171,0,2011-01-01,1,2025-10-15,Switched to Online Bank
+C0799,Hannah,Ross,36,Female,New Jersey,622,49847.54,87,1,2018-04-01,0,,
+C0800,Patrick,Bennett,44,Female,Maryland,840,55091.96,15,1,2024-07-01,0,,
